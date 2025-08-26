@@ -1,7 +1,7 @@
 #set page(paper: "a4")
 
 // Single import case
-#import "@preview/example:0.0.1": *
+#import "@preview/example:0.1.0": *
 
 // Multiple imports
 #import "@preview/tablex:0.0.3": tablex, gridx
