@@ -5,7 +5,7 @@
 
 // Multiple imports
 #import "@preview/tablex:0.0.3": tablex, gridx
-#import "@preview/cetz:0.2.0": canvas, plot
+#import "@preview/cetz:0.4.1": canvas, plot
 #import "@local/mylib:1.2.0": helper
 
 // Different version formats
