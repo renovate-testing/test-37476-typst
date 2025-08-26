@@ -4,7 +4,7 @@
 #import "@preview/example:0.0.1": *
 
 // Multiple imports
-#import "@preview/tablex:0.0.3": tablex, gridx
+#import "@preview/tablex:0.0.9": tablex, gridx
 #import "@preview/cetz:0.2.0": canvas, plot
 #import "@local/mylib:1.2.0": helper
 
